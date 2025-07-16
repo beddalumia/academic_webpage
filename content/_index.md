@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: "Gabriele Bellomia"
-date: 2025-7-16
+date: 2025-07-16
 type: landing
 
 design:
