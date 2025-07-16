@@ -43,11 +43,12 @@ profiles:
     url: https://www.linkedin.com/in/gbellomia/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=1ciQdT8AAAAJ
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0003-1576-3388
+#  - icon: academicons/orcid
+#    url: https://orcid.org/0000-0003-1576-3388
 
 interests:
   - Quantum Information
+  - Quantum Embedding
   - Strong Correlations
 
 education:
